@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 长夏茶叙
+subtitle: '记录日常美好，分享旅途故事'
+description: '长夏茶叙是一个关于生活感悟与旅行体验的个人博客。在这里，我们分享城市生活、旅行游记、摄影日常，以及阅读观影的点滴思考。慢下来，喝杯茶，一起品味生活的细节与旅途的风景。'
+keywords: 长夏茶叙, 生活随笔, 旅行体验, 城市生活, 自由行攻略, 摄影日常, 阅读观影, 个人博客，城市漫步，小众旅行地
+author: 夏天
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://ihhhh.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
