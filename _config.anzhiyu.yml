@@ -602,9 +602,9 @@ site_verification:
   - name: google-site-verification
     content: xxx
   - name: baidu-site-verification
-    content: code-xxx
+    content: codeva-njqF9KpTzC
   - name: msvalidate.01
-    content: xxx
+    content: B3DCC67FC978B63B1838F48ECE825231
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
