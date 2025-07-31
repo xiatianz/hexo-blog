@@ -427,7 +427,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2024
   custom_text:
   runtime:
     enable: false
@@ -525,7 +525,7 @@ footer:
     enable: true
     authorLink: /
     cc:
-      enable: false
+      enable: true
       link: /copyright
     linkList:
       - link: https://beian.miit.gov.cn/

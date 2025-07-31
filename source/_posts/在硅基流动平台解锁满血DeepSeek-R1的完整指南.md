@@ -1,13 +1,14 @@
 ---
 title: 在硅基流动平台解锁满血DeepSeek-R1的完整指南
-date: 2025-07-31 14:30:00
 categories: 攻略
-cover: https://imgs.ehon.cn/20250729190258296.png
+cover: 'https://imgs.ehon.cn/20250729190258296.png'
 tags:
   - 深度学习
   - GPU云服务
   - AI部署
   - DeepSeek
+abbrlink: d0c4
+date: 2025-07-31 14:30:00
 ---
 
 ## 什么是硅基流动？
