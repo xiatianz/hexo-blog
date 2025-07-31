@@ -1,7 +1,7 @@
 ---
 title: 在硅基流动平台解锁满血DeepSeek-R1的完整指南
 categories: 攻略
-cover: 'https://imgs.ehon.cn/20250729190258296.png'
+cover: 'https://img.ehon.cn/20250801015506854.jpg'
 tags:
   - 深度学习
   - GPU云服务

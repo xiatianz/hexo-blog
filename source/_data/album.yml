@@ -3,7 +3,7 @@
   type: 2
   description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
   cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
-  top_background: https://imgs.ehon.cn/20250731214409596.png
+  top_background: https://img.ehon.cn/20250801015506850.png
   rowHeight: 220
   limit: 10
   lazyload: true
@@ -30,7 +30,7 @@
       address: 成都地名文化
       from: 再吃一口就减肥
       image:
-        - https://img.ehon.cn/20250801005530125.jpeg?imageSlim   
+        - https://img.ehon.cn/20250801015506861.jpeg   
 
 - class_name: 我的日常
   path_name: /dailyPhoto
@@ -39,13 +39,86 @@
   top_link: /album
   top_btn_text: 返回
   top_background: https://imgs.ehon.cn/20250731221923907.jpg
-  cover: https://img.ehon.cn/20250801004240456.jpg?imageSlim
+  cover: https://img.ehon.cn/20250801015506864.jpg
   album_list:
-    - date: 2022-10-24
-      content: 老妹的画
-      image:
-        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
-    - date: 2025-4-26
+    - date: 2025-05-24
       content: 臭美
       image:
-    - https://imgs.ehon.cn/20250731222051670.jpg
+        - https://img.ehon.cn/20250801015506862.jpg
+    - date: 2025-05-25
+      content: 小区差点被淹了
+      image:
+        - https://img.ehon.cn/20250801015506867.jpg
+    - date: 2025-05-27
+      content: 冒雨买菜
+      image:
+        - https://img.ehon.cn/20250801022625147.jpg
+    - date: 2025-06-15
+      content: 夜骑
+      image:
+        - https://img.ehon.cn/20250801015506866.jpg
+    - date: 2025-06-20
+      content: 中途补给 绕环城绿道
+      image:
+        - https://img.ehon.cn/20250801015506864.jpg
+    - date: 2026-06-24
+      content: 爆胎
+      image:
+        - https://img.ehon.cn/20250801015506863.jpg
+
+- class_name: 骑行记录
+  path_name: /Cyclinglog
+  type: 1
+  description: 这里存的是骑行爱好记录。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://img.ehon.cn/20250801031044989.png
+  cover: https://img.ehon.cn/20250801030116275.jpg
+  album_list:
+    - date: 2025-05-24
+      content: 一圈骑完人要疯了
+      image:
+        - https://img.ehon.cn/20250801030116276.jpg
+        - https://img.ehon.cn/20250801030116277.jpg
+
+- class_name: 美图分享
+  path_name: /Beautifulphoto
+  type: 2
+  description: 高清手机电脑壁纸🤐。
+  cover: https://img.ehon.cn/20250801031706617.png
+  top_background: https://img.ehon.cn/20250801031423730.png
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2025/06/26 01:00:00
+      content: 吊带美女。
+      address: 美女
+      from: 再吃一口就减肥
+      image:
+        - https://img.ehon.cn/20250801032054052.png        
+    - date: 2025-08-01
+      content: 手机电脑壁纸
+      address: 美图壁纸分享
+      from: 紫菜卷
+      image:
+        - https://img.ehon.cn/20250801032054053.png
+        - https://img.ehon.cn/20250801032054054.png
+        - https://img.ehon.cn/20250801033801286.jpg
+        - https://img.ehon.cn/20250801032054055.png
+        - https://img.ehon.cn/20250801034212509.jpg
+        - https://img.ehon.cn/20250801034212510.jpg
+        - https://img.ehon.cn/20250801034212511.jpg
+        - https://img.ehon.cn/20250801034212512.jpg
+        - https://img.ehon.cn/20250801034212513.jpg
+        - https://img.ehon.cn/20250801034212514.jpg
+        - https://img.ehon.cn/20250801034212515.jpg
+        - https://img.ehon.cn/20250801034212516.jpg
+        - https://img.ehon.cn/20250801034212517.jpg
+        - https://img.ehon.cn/20250801034721129.jpg
+        - https://img.ehon.cn/20250801034721130.jpg
+        - https://img.ehon.cn/20250801034721131.jpg

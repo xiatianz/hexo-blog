@@ -46,7 +46,7 @@ mourn:
 # Code Blocks (代码相关)
 # --------------------------------------
 
-highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -1077,7 +1077,7 @@ home_top:
   banner:
     tips: 最全的个人导航网站，超多实用的网站聚合
     title: 微觅星图
-    image: https://imgs.ehon.cn/20250731052215993.png
+    image: https://img.ehon.cn/20250801015506845.png
     link: https://weemi.cn/
 
 # 朋友圈配置
