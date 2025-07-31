@@ -25,6 +25,12 @@
       image:
         - https://bu.dusays.com/2023/04/09/64329399db122.webp
         - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+    - date: 2025/07/26 01:00:00
+      content: 安顺廊桥。
+      address: 成都地名文化
+      from: 再吃一口就减肥
+      image:
+        - https://img.ehon.cn/20250801005530125.jpeg?imageSlim   
 
 - class_name: 我的日常
   path_name: /dailyPhoto
@@ -32,32 +38,14 @@
   description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
   top_link: /album
   top_btn_text: 返回
-  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
-  cover: hhttps://imgs.ehon.cn/20250731221923907.jpg
+  top_background: https://imgs.ehon.cn/20250731221923907.jpg
+  cover: https://img.ehon.cn/20250801004240456.jpg?imageSlim
   album_list:
+    - date: 2022-10-24
+      content: 老妹的画
+      image:
+        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
     - date: 2025-4-26
       content: 臭美
       image:
-        - https://imgs.ehon.cn/20250731222051670.jpg
-    - date: 2025-5-24
-      content: 夜骑
-      image:
-        - https://imgs.ehon.cn/20250731222339021.jpg
-    - date: 2025-05-28
-      content: 爆胎
-      image:
-        - https://imgs.ehon.cn/20250731222433952.jpg
-    - date: 2025-06-24
-      content: 太热了，来块菠萝
-      image:
-        - https://imgs.ehon.cn/20250731222051670.jpg
-    - date: 2025-7-25
-      content: 暴雨，小区都差点被淹了
-      image:
-        - https://imgs.ehon.cn/20250731222838874.jpg
-    - date: 2025-0726-24
-      content: 冒雨买菜
-      image:
-        - https://imgs.ehon.cn/20250731223018510.jpg    
-
-
+    - https://imgs.ehon.cn/20250731222051670.jpg
