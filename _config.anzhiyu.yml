@@ -29,12 +29,12 @@ nav:
     - title: 网页
       item:
         - name: 博客
-          link: https://blog.anheyu.com/
+          link: https://ehon.cn/
           icon: /img/favicon.ico
     - title: 项目
       item:
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
+        - name: 微觅星图导航
+          link: https://weemi.cn/
           icon: https://image.anheyu.com/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
@@ -1184,7 +1184,7 @@ greetingBox:
 # 文章顶部ai摘要
 post_head_ai_description:
   enable: true
-  gptName: AnZhiYu
+  gptName: DeepSeek
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink: https://afdian.net/item/886a79d4db6711eda42a52540025c377
