@@ -26,13 +26,11 @@ nav:
   travelling: false
   clock: false
   menu:
-    - title: 网站
+    - title: 网页
       item:
         - name: 博客
           link: https://ehon.cn/
           icon: /img/favicon.ico
-    - title: 项目
-      items:
         - name: 微觅星图导航
           link: https://weemi.cn/
           icon: https://image.anheyu.com/favicon.ico
