@@ -33,7 +33,12 @@ nav:
           icon: /img/favicon.ico
         - name: 微觅星图导航
           link: https://weemi.cn/
-          icon: https://image.anheyu.com/favicon.ico
+          icon: https://imgs.ehon.cn/JZqn9Mc7.ico
+    - title: 项目
+      item:
+        - name: 夏图坞图床
+          link: https://tu.ehon.cn/
+          icon: https://imgs.ehon.cn/LctV8Ae8.png
         - name: 网站背景图制作
           link: https://58sb.cn/
           icon: https://img.ehon.cn/20250802140615698.svg
@@ -151,10 +156,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: false # "background: url() top / cover no-repeat"
+index_img: true # "background: url() top / cover no-repeat"
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: false
+default_top_img: true
 
 cover:
   # display the cover or not (是否显示文章封面)
