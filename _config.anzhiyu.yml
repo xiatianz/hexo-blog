@@ -22,20 +22,26 @@ menu:
 
 # nav相关配置
 nav:
-  enable: false
+  enable: true
   travelling: false
   clock: false
   menu:
-    - title: 网页
+    - title: 网站
       item:
         - name: 博客
           link: https://ehon.cn/
           icon: /img/favicon.ico
     - title: 项目
-      item:
+      items:
         - name: 微觅星图导航
           link: https://weemi.cn/
           icon: https://image.anheyu.com/favicon.ico
+        - name: coverwawe网站背景图制作
+          link: https://58sb.cn/
+          icon: https://img.ehon.cn/20250802140615698.svg
+        - name: 高级颜色预览器
+          link: https://ihhhh.cn/
+          icon: https://img.ehon.cn/20250802142202720.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -1140,7 +1146,7 @@ music_page_default: nav_music
 # 评论匿名邮箱
 visitorMail:
   enable: true
-  mail: ""
+  mail: "noreply@notice.ehon.cn"
 
 # ptool 文章底部工具
 ptool:
